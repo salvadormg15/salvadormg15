@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @salvadormg15, call me Salvador
+- 👀 I’m interested in software development, I love how we use computers for problem-solving
+- 📕 I’m currently studying a TI career on Mexico, my passion is learn new things.
+- 💻 If you need to contact me, feel free to snd an email to msalvadormg@gmail.com
