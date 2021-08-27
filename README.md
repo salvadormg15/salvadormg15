@@ -10,7 +10,7 @@
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg"/>
 <img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"/>
 <img align="left" alt="Forge" height="26px" src="https://files.minecraftforge.net/static/images/logo.svg"/>
-<img align="left" alt="Blockbench" heigth="26px" src="https://www.blockbench.net/_nuxt/dc80fd589cb46f0c5235e44375841ab2.svg"/>
+<img align="left" alt="Blockbench" height="26px" src="https://www.blockbench.net/_nuxt/dc80fd589cb46f0c5235e44375841ab2.svg"/>
 </br></br>
 
 
